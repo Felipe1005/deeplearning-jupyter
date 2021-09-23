@@ -1,0 +1,6 @@
+numpy
+imutils
+wheel
+graphviz
+pydot
+progressbar
